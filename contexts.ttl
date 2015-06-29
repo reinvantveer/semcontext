@@ -1,0 +1,5 @@
+@prefix sikb0102: <http://data.sikb.nl/ontologie/> . 
+"a" sikb0102:JongerDan "b" .
+"b" sikb0102:JongerDan "c" .
+"c" sikb0102:JongerDan "d" .
+"d" sikb0102:JongerDan "a" .
